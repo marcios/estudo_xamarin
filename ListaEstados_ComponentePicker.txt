@@ -1,0 +1,30 @@
+<x:Array Type="{x:Type x:String}">
+<x:String>Acre</x:String>
+<x:String>Alagoas</x:String>
+<x:String>Amapá</x:String>
+<x:String>Amazonas</x:String>
+<x:String>Bahia</x:String>
+<x:String>Ceara</x:String>
+<x:String>Distrito Federal</x:String>
+<x:String>Espírito Santo</x:String>
+<x:String>Goiás</x:String>
+<x:String>Maranhão</x:String>
+<x:String>Mato Grosso</x:String>
+<x:String>Mato Grosso do Sul</x:String>
+<x:String>Minas Gerais</x:String>
+<x:String>Pará</x:String>
+<x:String>Paraíba</x:String>
+<x:String>Paraná</x:String>
+<x:String>Pernambuco</x:String>
+<x:String>Piauí</x:String>
+<x:String>Rio de Janeiro</x:String>
+<x:String>Rio Grande do Norte</x:String>
+<x:String>Rio Grande do Sul</x:String>
+<x:String>Rondônia</x:String>
+<x:String>Roraima</x:String>
+<x:String>Santa Catarina</x:String>
+<x:String>São Paulo</x:String>
+<x:String>Sergipe</x:String>
+<x:String>Tocantins</x:String>
+
+<x:/Array>
