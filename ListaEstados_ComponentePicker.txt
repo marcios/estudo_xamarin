@@ -27,4 +27,4 @@
 <x:String>Sergipe</x:String>
 <x:String>Tocantins</x:String>
 
-<x:/Array>
+</x:Array>
